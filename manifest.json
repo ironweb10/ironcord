@@ -1,0 +1,14 @@
+{
+  "repoName": "IronWeb10 Plugins",
+  "generatedAt": "2026-09-26T11:24:24.517Z",
+  "plugins": [
+    {
+      "id": "faveverything",
+      "name": "Universal Favorites",
+      "description": "Favorite everything",
+      "author": "iron web10",
+      "version": "1.0.0",
+      "file": "Plugins/faveverything.js"
+    }
+  ]
+}
